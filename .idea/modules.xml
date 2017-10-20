@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChepoAir/ChepoAir.iml" filepath="$PROJECT_DIR$/ChepoAir/ChepoAir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChepoAirautomation.iml" filepath="$PROJECT_DIR$/ChepoAirautomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+    </modules>
+  </component>
+</project>
